@@ -1,0 +1,60 @@
+header{
+    background-color: rgb(120, 133, 247);
+    padding: 20px;
+    border-radius: 35px;
+}
+body{
+    background-image: linear-gradient(to right,violet,rgb(151, 226, 251));
+}
+h1{
+    color: rgb(235, 245, 245);
+}
+h1,ul{
+    text-align: center;
+}
+ul li{
+    display: inline;;
+    padding-left: 60px;
+    padding-right: 50px;
+    color: aliceblue;
+    font-size: 20px;
+}
+ul a{
+    text-decoration: none;
+ }
+ul li:hover{
+       font-size: 25px;
+       color: rgb(218, 190, 30);
+}
+
+#home h1{
+    text-shadow: 2px 2px rgb(229, 233, 11);
+    color: rgb(5, 5, 5);
+}
+#about h1{
+    color: rgb(10, 4, 4);
+}
+#Resume{
+    background-color: rgb(109, 118, 250);
+    border-radius: 35px;
+    opacity: 20;
+}
+#contact{
+    background-color: rgb(214, 205, 205);
+    border-radius: 35px;
+    opacity: 20;
+}
+#contact h1{
+    color: black;
+    text-shadow: 2px 2px chartreuse
+}
+#portfolio h1{
+    text-shadow: 2px 2px red;
+    color: rgb(10, 4, 4);
+}
+#web h1{
+color: black;
+}
+img{
+    border-radius: 75px;
+}
